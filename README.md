@@ -5,7 +5,7 @@ Asignatura: Cultura Digital
 
 Año: 2025
 
-INTRODUCCIÓN, ¿QUE ES LA HIBRIDACIÓN EN LOS NUEVOS MEDIOS?
+INTRODUCCIÓN, ¿QUE ES LA HIBRIDACIÓN EN LOS NUEVOS MEDIOS?   INTRODUCCIÓN, ¿QUE ES LA HIBRIDACIÓN EN LOS NUEVOS MEDIOS?
 
 La hibridación en los nuevos medios es un concepto que explica cómo, en la era digital, distintos medios, tecnologías y prácticas culturales se combinan para crear formas de comunicación completamente nuevas. A diferencia de los medios tradicionales, los nuevos medios integran todos estos lenguajes en un mismo entorno interactivo.
 
