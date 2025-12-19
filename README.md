@@ -11,11 +11,13 @@ La hibridación en los nuevos medios es un concepto que explica cómo, en la era
 
 Lev Manovich, señala que la hibridación no es simplemente una mezcla superficial, sino un proceso profundo y estructural en el que diferentes medios se fusionan a nivel técnico, estético y funcional. El resultado no es la suma de partes independientes, sino un medio nuevo, donde los elementos originales dejan de actuar por separado.
 
-Gracias a esta hibridación, hoy encontramos productos como aplicaciones móviles que combinan geolocalización, narrativa, realidad aumentada y bases de datos; videojuegos que integran actividad física del mundo real; o plataformas que mezclan redes sociales, vídeo, música y algoritmos personalizados.
+Gracias a esta hibridación, hoy encontramos productos como aplicaciones móviles que combinan geolocalización, narrativa y bases de datos; videojuegos que integran actividad física del mundo real; o plataformas que mezclan redes sociales, vídeo, música y algoritmos personalizados.
+
 
 PLANTEAMINETO
 
 A continuación analizaré dos casos en los que se produce el concepto de hibridación propuesto por Lev Manovich en su obra El software toma el mando.
+
 
 CASO 1: BOTFATHER
 
@@ -37,6 +39,67 @@ Con el puedes...
 •	Regenerar un token si se filtra.
 
 •	Ver todos los bots que ya has creado.
+
+
+HIBRIDACIÓN SEGÚN MANOVICH APLICADA A BOTFATHER
+
+BotFather, el bot oficial de Telegram que permite crear y gestionar otros bots, es un ejemplo muy interesante de hibridación en los nuevos medios, tal como la describe Lev Manovich. No es simplemente una herramienta técnica: es un punto de encuentro entre múltiples medios, interfaces y funciones que antes estaban distribuidas en sistemas separados.
+
+Manovich explica que la hibridación ocurre cuando diferentes medios, lenguajes y formatos se integran de tal forma que crean un nuevo tipo de medio, no reducible a la suma de sus partes. Esto es exactamente lo que ocurre en BotFather.
+
+- HIBRIDACIÓN ENTRE INTERFAZ CONVERSACIONAL Y PROGRAMACIÓN
+
+BotFather combina dos mundos que tradicionalmente eran muy distintos:
+
+La conversación, propia de la mensajería instantánea.
+
+La programación, donde normalmente se usan consolas, editores de código o paneles web.
+
+En BotFather, crear un bot, como si fuera una conversación.
+
+Esto es un ejemplo de lo que Manovich llama mezcla estructural de medios, donde una interfaz comunicativa se convierte en una herramienta de desarrollo.
+
+- INTEGRACIÓN DE FUNCIONES ADMINISTRATIVAS DENTRO DE UNA PLATAFORMA DE MENSAJERÍA
+
+Antes, gestionar aplicaciones requería: 
+
+Acceder a un panel web, configurar servidores, revisar documentación técnica... 
+
+BotFather fusiona todo esto en una única experiencia híbrida, dentro de un chat:
+
+Creación de bots, gestión de tokens, configuración de comandos, gestión de descripciones y perfiles... 
+
+Un medio administrativo se fusiona con un medio comunicativo, creando un nuevo tipo de herramienta híbrida.
+
+- AUTOMATIZACIÓN + INTERACCIÓN HUMANA
+
+Manovich señala que los nuevos medios mezclan: Base de datos y automatización, interacción humana directa. 
+
+BotFather representa esta mezcla: El usuario envía mensajes naturales ("create new bot")
+
+La plataforma ejecuta procesos automatizados complejos: Generar tokens y registrar bots en los servidores de Telegram, también establecer permisos
+
+La experiencia final es un medio híbrido entre automatización algorítmica y diálogo humano.
+
+- HIBRIDACIÓN ENTRE DISEÑO, COMUNICACIÓN Y DESARROLLO
+
+BotFather combina: Diseño de interfaz conversacional, comunicación entre usuario y sistema y acciones técnicas del backend de Telegram.
+
+Para Manovich, este tipo de integración profunda es la esencia del medio híbrido.
+
+CONCLUSIÓN
+
+Según la teoría de Manovich, BotFather es un caso claro de hibridación porque:
+
+- Mezcla conversación y programación.
+
+- Fusiona automatización con interacción humana.
+
+- Integra administración y mensajería en un mismo medio.
+
+- Se convierte en un meta-herramienta que produce nuevos medios híbridos.
+
+En otras palabras, BotFather es un ejemplo perfecto de cómo los nuevos medios ya no pertenecen a un solo lenguaje o dominio, sino que combinan múltiples prácticas mediáticas en una experiencia unificada.
 
 
 CASO 2: PIKMIN BLOOM
