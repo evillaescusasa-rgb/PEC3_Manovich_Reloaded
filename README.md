@@ -5,7 +5,7 @@ Asignatura: Cultura Digital
 
 Año: 2025
 
-INTRODUCCIÓN, ¿QUE ES LA HIBRIDACIÓN EN LOS NUEVOS MEDIOS?   INTRODUCCIÓN, ¿QUE ES LA HIBRIDACIÓN EN LOS NUEVOS MEDIOS?
+INTRODUCCIÓN, ¿QUE ES LA HIBRIDACIÓN EN LOS NUEVOS MEDIOS? 
 
 La hibridación en los nuevos medios es un concepto que explica cómo, en la era digital, distintos medios, tecnologías y prácticas culturales se combinan para crear formas de comunicación completamente nuevas. A diferencia de los medios tradicionales, los nuevos medios integran todos estos lenguajes en un mismo entorno interactivo.
 
@@ -18,5 +18,25 @@ PLANTEAMINETO
 A continuación analizaré dos casos en los que se produce el concepto de hibridación propuesto por Lev Manovich en su obra El software toma el mando.
 
 CASO 1: BOTFATHER
+
+¿QUE ES BOTFATHER?
+
+BotFather es un bot oficial de Telegram (creado por Telegram) que sirve como panel de control para crear y gestionar otros bots.
+Es, literalmente, “el padre de todos los bots”.
+
+Con el puedes... 
+
+•	Crear un nuevo bot desde cero.
+
+•	Obtener el token que tu bot necesita para funcionar.
+
+•	Cambiar el nombre, la foto o la descripción del bot.
+
+•	Configurar comandos personalizados.
+
+•	Regenerar un token si se filtra.
+
+•	Ver todos los bots que ya has creado.
+
 
 CASO 2: PIKMIN BLOOM
