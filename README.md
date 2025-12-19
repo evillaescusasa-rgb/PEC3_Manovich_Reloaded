@@ -108,6 +108,7 @@ En otras palabras, BotFather es un ejemplo perfecto de cómo los nuevos medios y
 
 ## CASO 2: PIKMIN BLOOM
 
+![ChatGPT Image 19 dic 2025, 16_51_28](https://github.com/user-attachments/assets/d3dfc813-f4e5-44c2-8311-f9d62325bc1b)
 
 ### HIBRIDACIÓN SEGÚN MANOVICH APLICADA A PIKMIN BLOOM
 
