@@ -87,6 +87,8 @@ BotFather combina: Diseño de interfaz conversacional, comunicación entre usuar
 
 Para Manovich, este tipo de integración profunda es la esencia del medio híbrido.
 
+El propio bot es un "meta-medio". Por tanto, BotFather es un ejemplo de hibridación multiplicada, o lo que Manovich llamaría un "sistema que genera nuevos medios híbridos".
+
 CONCLUSIÓN
 
 Según la teoría de Manovich, BotFather es un caso claro de hibridación porque:
